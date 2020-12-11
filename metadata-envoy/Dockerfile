@@ -1,2 +1,2 @@
-FROM gcr.io/ml-pipeline/metadata-envoy:dummy
+FROM gcr.io/ml-pipeline/metadata-envoy:1.0.4
 MAINTAINER zwt

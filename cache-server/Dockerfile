@@ -1,2 +1,2 @@
-FROM gcr.io/ml-pipeline/cache-server:dummy
+FROM gcr.io/ml-pipeline/cache-server:1.0.4
 MAINTAINER zwt

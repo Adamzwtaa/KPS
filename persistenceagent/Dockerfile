@@ -1,2 +1,2 @@
-FROM gcr.io/ml-pipeline/persistenceagent:dummy
+FROM gcr.io/ml-pipeline/persistenceagent:1.0.4
 MAINTAINER zwt
